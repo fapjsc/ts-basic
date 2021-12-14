@@ -1,0 +1,15 @@
+{
+  "name": "annotations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "classes": "ts-node classes.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.11.12"
+  }
+}
